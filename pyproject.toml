@@ -6,6 +6,7 @@ authors = ["Łukasz Langa <lukasz@langa.pl>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+psutil = "^5.8.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
